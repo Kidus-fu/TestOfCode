@@ -26,6 +26,7 @@ The frontend of the website will be developed using modern web technologies to e
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling the website.
 - **JavaScript**: For interactive elements.
+- **TypeScript**: For interactive elements.
 - **React**: For building a dynamic user interface.
 
 ### Pages
@@ -46,7 +47,7 @@ The frontend of the website will be developed using modern web technologies to e
 To get started with the frontend development, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/Kidus-fu/serendip-origins.git
+git clone https://github.com/Kidus-fu/serendiporigins.git
 cd serendip-origins
 npm install
 ```
