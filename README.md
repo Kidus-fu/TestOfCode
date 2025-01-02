@@ -1,5 +1,7 @@
 # Serendip Origins
 
+![Serendip Origins Logo](https://avatars.githubusercontent.com/u/193439119?s=200&v=4)
+
 Serendip Origins is a youth-led initiative focused on raising awareness about underrepresented topics like environmental sustainability and humanitarian issues. This project aims to design a website that reflects our mission to inspire meaningful change.
 
 ## Features
