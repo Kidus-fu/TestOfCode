@@ -57,4 +57,4 @@ Run the development server:
 ```bash
 npm run dev
 ```
-OR In vercel -> https://serendiporigins.vercel.app/
+OR In vercel -> https://TestOfCode.vercel.app/
