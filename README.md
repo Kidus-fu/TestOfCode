@@ -1,21 +1,57 @@
-# React + TypeScript + Vite
+# Serendip Origins
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Serendip Origins is a youth-led initiative focused on raising awareness about underrepresented topics like environmental sustainability and humanitarian issues. This project aims to design a website that reflects our mission to inspire meaningful change.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## Features
 
-## Deploy Your Own
+- **Blog**: A section for stories and updates.
+- **Projects Page**: Showcasing our initiatives.
+- **Contact Page**: For getting in touch with us.
+- **Community Platform**: For discussions and interactions.
 
-Deploy your own Vite project with Vercel.
+## Design Goals
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
+- **Responsive Design**: Ensure the website works well on all devices.
+- **Modern Aesthetic**: A clean and contemporary look.
+- **Interactive Elements**: Include features like comments and messaging.
 
-_Live Example: https://vite-react-example.vercel.app_
+## Frontend Development
 
-### Deploying From Your Terminal
+The frontend of the website will be developed using modern web technologies to ensure a seamless and engaging user experience.
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+### Technologies
 
-```shell
-$ vercel
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the website.
+- **JavaScript**: For interactive elements.
+- **React**: For building a dynamic user interface.
+
+### Pages
+
+1. **Home Page**: Introduction to Serendip Origins and our mission.
+2. **Blog**: Articles and updates on various topics.
+3. **Projects**: Detailed information about our initiatives.
+4. **Contact**: Form and information for reaching out to us.
+5. **Community**: Platform for discussions and community engagement.
+
+### Interactive Elements
+
+- **Comments**: Allow users to comment on blog posts.
+- **Messaging**: Enable users to send messages within the community platform.
+
+## Getting Started
+
+To get started with the frontend development, clone the repository and install the necessary dependencies.
+
+```bash
+git clone https://github.com/Kidus-fu/serendip-origins.git
+cd serendip-origins
+npm install
 ```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+OR In vercel -> https://serendiporigins.vercel.app/
